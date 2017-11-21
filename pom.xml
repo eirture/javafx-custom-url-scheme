@@ -24,7 +24,7 @@
                 <configuration>
                     <mainClass>org.eirture.javafx.App</mainClass>
                     <vendor>Eirture</vendor>
-                    <appName>Custom URL Scheme</appName>
+                    <appName>MyApp</appName>
                     <verbose>true</verbose>
                     <nativeReleaseVersion>${version}</nativeReleaseVersion>
                     <bundleArguments>
